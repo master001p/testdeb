@@ -104,20 +104,6 @@ Author: admin
 Name: libpaymentremote
 
 Package: mmel.com.libIosIl2CppDumper
-Version: 0.2.9
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/mmel.com.libIosIl2CppDumper_0.2.9_iphoneos-arm64e.deb
-Size: 369794
-MD5sum: c2c71ffce1d657ac9d93952477236eef
-SHA1: 0a54cec48a5380b1e2a09cbe77c237f3aa565d78
-SHA256: 21f75547db6a80fb8c3d3e863e135fd3cfa813ffb5de8d0d660ff6c021937ad9
-Section: Tweaks
-Priority: optional
-Author: admin
-Name: libIosIl2CppDumper
-
-Package: mmel.com.libIosIl2CppDumper
 Version: 0.3.0
 Architecture: iphoneos-arm64e
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -126,6 +112,20 @@ Size: 372048
 MD5sum: efa3277d7003aa2b40be37b4567f2510
 SHA1: 33985826eb107ed8eb24dcccc39bdd2db23537b4
 SHA256: dbb763893b5bb55e80ea13874b57b35074888ef951a01e5d47825dcbe2c7f433
+Section: Tweaks
+Priority: optional
+Author: admin
+Name: libIosIl2CppDumper
+
+Package: mmel.com.libIosIl2CppDumper
+Version: 0.3.1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/mmel.com.libIosIl2CppDumper_0.3.1_iphoneos-arm64e.deb
+Size: 374544
+MD5sum: 585ece05b460bd6cf54a98d73e51faf0
+SHA1: 7cb4ba0a20784d523a1111af7f8938eb3fd7c944
+SHA256: 1568fabf39da9926096eb866ed496ab3984be562c1707f8e161aef92dce2f2a9
 Section: Tweaks
 Priority: optional
 Author: admin
