@@ -73,6 +73,21 @@ Description: 系统入库辅助
 Author: admin
 Name: libpaymentonpass
 
+Package: libpaymentonpass
+Version: 0.1.6
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/libpaymentonpass_0.1.6_iphoneos-arm64e.deb
+Size: 1362856
+MD5sum: 1f9c535e44a64aa290a7bd4d6b92fd0f
+SHA1: cd829ddcb5c45289d21ce88a4a2a0058583a6580
+SHA256: a13ed82233ea4821b34ecc7073847fa21e9677caac4967d9844252508be34788
+Section: Tweaks
+Priority: optional
+Description: 系统入库辅助
+Author: admin
+Name: libpaymentonpass
+
 Package: libpaymentremote
 Version: 1.0.6
 Architecture: iphoneos-arm64e
