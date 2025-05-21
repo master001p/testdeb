@@ -13,21 +13,6 @@ Description: 入库
 Author: admin
 Name: PaymentIn
 
-Package: libPaymentInDebug
-Version: 0.3.2
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/libPaymentInDebug_0.3.2_iphoneos-arm64e.deb
-Size: 334000
-MD5sum: 10ec7caeeaa69062c5f2cfb5c0ebdc02
-SHA1: 831c11b396b89efc151455ac92d5937593754a58
-SHA256: 431f53c65083bf9b7f9e1e0ffc4661a98a457c24e425247cfe243c53f689d18e
-Section: Tweaks
-Priority: optional
-Description: 入库调试插件！！！
-Author: admin
-Name: libPaymentInDebug
-
 Package: libPaymentOut
 Version: 0.61.3
 Architecture: iphoneos-arm64e
@@ -57,21 +42,6 @@ Priority: optional
 Description: 出库
 Author: admin
 Name: PaymentOut
-
-Package: libpaymentonpass
-Version: 0.1.5
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/libpaymentonpass_0.1.5_iphoneos-arm64e.deb
-Size: 1136514
-MD5sum: 99a6f6ccd21e1e7dfa35000712ea2b80
-SHA1: b76e83eabb677fadfb40f273516b7442aefc763e
-SHA256: e3f97abfac77ffb195b01c18e5dd0c7c4489f3997930725015786717ea64e792
-Section: Tweaks
-Priority: optional
-Description: 系统入库辅助
-Author: admin
-Name: libpaymentonpass
 
 Package: libpaymentonpass
 Version: 0.1.6
@@ -119,28 +89,14 @@ Author: admin
 Name: libpaymentremote
 
 Package: mmel.com.libIosIl2CppDumper
-Version: 0.3.5.2
+Version: 0.3.5.5
 Architecture: iphoneos-arm64e
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/mmel.com.libIosIl2CppDumper_0.3.5.2_iphoneos-arm64e.deb
-Size: 219254
-MD5sum: ee95634eea7281cb7cd6ec105d7ca945
-SHA1: 3fef2693dc74ca987ae07fa47571bebe589da5cb
-SHA256: 487d78d15b6bd54b0ecb1001757868f5ba5a485b78f0b2a292ca06464062097c
-Section: Tweaks
-Priority: optional
-Author: admin
-Name: libIosIl2CppDumper
-
-Package: mmel.com.libIosIl2CppDumper
-Version: 0.3.5.3
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/mmel.com.libIosIl2CppDumper_0.3.5.3_iphoneos-arm64e.deb
-Size: 220468
-MD5sum: e559d883c6a5285a663e3f60cb910451
-SHA1: 8db25576a22216c9db90556cd0820d5973d1c72a
-SHA256: 1495117853fb0cdf0a6db6cd690241bb62cacfc2a96cdb6fe50ca60f2e97e9d1
+Filename: ./debs/mmel.com.libIosIl2CppDumper_0.3.5.5_iphoneos-arm64e.deb
+Size: 223484
+MD5sum: 7c85f44be0354407fd2a6d4f4b134038
+SHA1: 86d26ba12a20f73bcdcff349c637ecf1389d4d72
+SHA256: 581ed909c7ba0cd6cd8e8bb9a70edc09c64923bd7c9d28487bf62b044e830e63
 Section: Tweaks
 Priority: optional
 Author: admin
